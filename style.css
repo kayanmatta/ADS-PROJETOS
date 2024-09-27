@@ -1,0 +1,71 @@
+.imagem img{
+    height:350px;
+    width: 65%;
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-left: 18%;
+}
+.img{
+    height:160px; 
+    position: fixed ;
+    top: -55px;
+    left: 15%;
+}
+.texto {
+    color:rgb(15, 15, 15);
+    margin: 0 20px 0 0;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+body{
+    height: 80vh; 
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    position:fixed ;
+    top: 0;
+    right: 0;
+    border-top: 6px solid rgb(201, 37, 0);
+    width: 100%;
+    text-align: end;
+    height:70px ;
+    align-content: center;
+    padding: 0 17% ;
+    background-color: rgb(255, 255, 255);
+}
+.home{text-align: center;
+    margin: 0 17%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    font-size: 20px;
+}
+.tdr{font-weight: bold;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding-top: 1%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+.quemsomos{
+    margin: 0 18%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    margin-top: 7%; 
+    display: grid;
+    grid-template-columns: 50% 50%;
+    font-size: 20px;
+
+    
+}
+.contato{
+    margin: 0 18%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    margin-top: 7%; 
+    font-size: 20px;
+}
